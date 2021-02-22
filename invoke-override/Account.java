@@ -5,7 +5,7 @@
  	String Name ="" ,IDNumber =""; 
  	int CardNumber = 0;
  	double Amount = 0.0 ;
- 	Card(String Name, String IDNumber, double CardNumber, double Amount){
+ 	Card(String Name, String IDNumber, int CardNumber, double Amount){
  		this.Name =Name;
  		this.IDNumber = IDNumber;
  		this.CardNumber = CardNumber;
@@ -14,7 +14,7 @@
  	}
  	void printDetails(){
  		System.out.println("Card Number" + CardNumber);
- 		Stsyem.out.println("ID Number:" + IDNumber);
+ 		System.out.println("ID Number:" + IDNumber);
  		System.out.println("Name:" + Name);
  		System.out.println("Amount Available :"+Amount);
  	}
@@ -25,17 +25,17 @@
  	MasterCard(String Name, String IDNumber, int CardNumber, double Amount){
  		super(Name,IDNumber,CardNumber,Amount);
  		this.CardTye = CardTye;
- 		this.printDetails();
+ 		//this.printDetails();
  	}
  	void printDetails(){
- 		System.out.println("Card Type" + CardNumber);
- 		this.printDetails();
+ 		System.out.println("MasterCard");
+ 		//this.printDetails();
  	}
  }
 
 class VisaCard extends Card { 
  	String CardTye = "VisaCard";
- 	MasterCard(String Name, String IDNumber, int CardNumber, double Amount){
+ 	VisaCard(String Name, String IDNumber, int CardNumber, double Amount){
  		super(Name,IDNumber,CardNumber,Amount);
  		this.CardTye = CardTye;
  	}
@@ -47,7 +47,7 @@ class VisaCard extends Card {
 
  public class Account { 
  	public static void main(String[] args) {
- 		Card a = new MasterCard("Vuyani", "0987654345678",22211134,100.234)
+ 		Card a = new MasterCard("Vuyani", "0987654345678",22211134,100.234);
  	}
 
  }

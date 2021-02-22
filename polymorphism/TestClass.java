@@ -82,7 +82,7 @@ public class TestClass {
 	System.out.println("Employee ID\t\t|Surname\t|Name\t\t|age");
 	ArrayList<Employee> myList = myEmployees.getList();
 	for ( Employee employee:myList){
-		System.out.print(employee.getEmployeeID()+"\t\t");
+		System.out.print(employee.getEmployeeID()+"\t\t"
 		System.out.print(employee.getSurname() +"\t\t");
 		System.out.print(employee.getName() +"\t\t");
 		System.out.println(employee.getAge() +"\t\t");

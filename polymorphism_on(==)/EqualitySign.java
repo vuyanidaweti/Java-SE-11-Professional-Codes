@@ -12,5 +12,21 @@ class EqualitySign{
 		//System.out.println(y.equals(s));//Error: Cant dereference primitive to object type 
 		Object r = "Hello";
 		System.out.println(r==n);//This compiles they are both objects of type Object though they do not point to the same object  
+	     
+	}
+}
+
+class X {
+	int val ;
+	public boolean equals(Object x ){
+		if (!(x instanceof X)) return false; 
+		return this.val== ((X) x ).val ;
+	}
+	public static void main(String[] args) {
+		X x1 = new X();
+		x1.val =1;
+		X x2 = new X();
+		x2.val=2; 
+		System.out.println("Soulti on:" +x1.equals(x2));
 	}
 }
