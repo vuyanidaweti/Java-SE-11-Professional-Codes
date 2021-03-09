@@ -4,10 +4,10 @@ import java.util.ArrayList ;
 public class TestClass {
 	public static void main(String[] args) {
 		ArrayList al = new ArrayList();
-		al.add("alice");
-		al.add("bob");
-		al.add("charlie");
-		al.add(2,"david");
+		al.add((String)"alice");
+		al.add((String)"bob");
+		al.add((String)"charlie");
+		al.add(2,(String)"david");
 
 		for (Object o:al){
 			String name = (String)o ;
