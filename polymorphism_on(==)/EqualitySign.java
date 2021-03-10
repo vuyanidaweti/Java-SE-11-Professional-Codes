@@ -1,5 +1,7 @@
 /*
 	We are comparing the == operator with equals function for objects
+	== operator compares the objects that point to the same memory on the heap
+	it compares the bits in  the variable 
 */
 class EqualitySign{
 	public static void main(String[] args) {
@@ -27,6 +29,6 @@ class X {
 		x1.val =1;
 		X x2 = new X();
 		x2.val=2; 
-		System.out.println("Soulti on:" +x1.equals(x2));
+		System.out.println("Solution on :" +x1.equals(x2));
 	}
 }
