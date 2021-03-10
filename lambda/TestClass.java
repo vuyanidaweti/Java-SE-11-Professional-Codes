@@ -13,7 +13,7 @@ class Car {
 	public String toString(){
 		return "("+company+" "+year+")";
 	}
-}
+}	<
 
 class CarMall {
 	List<Car> cars =new  ArrayList<>();
@@ -28,10 +28,8 @@ class CarMall {
 	List<Car> showCars(CarFilter cf){
 		//This list if for the cars to be showed
 		ArrayList<Car> carsToShow = new ArrayList<>();
-
 		for (Car c:cars){//Search for the cars that are to be showed 
 			if(cf.showCar(c)) carsToShow.add(c);//Use the functional interface to filter out the  t care that are to be implemented.
-
 		}
 		return carsToShow;
 	}
