@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8487bc05-703d-4ecb-b9c0-095ab89b64bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/runConfigurations/_template__of_Application.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/Exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/TestClass3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exceptions/out/production/Exceptions/Exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileReading.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileReading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileWriting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaIO.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaIO.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestClass2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestClass3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestClass3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mtext.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mytext.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaIO/JavaIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaIO/JavaIO.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaIO/JavaIO.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaIO/TestClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaIO/TestClass2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaIO/TestClass3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaIO/mytext.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exceptions/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-SE-11-Professional-Codes.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1qIWYKxtj8jUDPk4TWNANuMQBMJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager" selected="Application.FileReading">
+    <configuration name="FileReading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileReading" />
+      <module name="JavaIO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestClass3" />
+      <module name="JavaIO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestClass" />
+      <module name="JavaIO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JarApplication">
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FileReading" />
+        <item itemvalue="Application.TestClass3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8487bc05-703d-4ecb-b9c0-095ab89b64bd" name="Default Changelist" comment="" />
+      <created>1616767634828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616767634828</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
